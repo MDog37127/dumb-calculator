@@ -1,0 +1,17 @@
+C:\Users\bentl\source\repos\ohboi\ohboi\bin\Debug\net6.0-windows\ohboi.exe
+C:\Users\bentl\source\repos\ohboi\ohboi\bin\Debug\net6.0-windows\ohboi.deps.json
+C:\Users\bentl\source\repos\ohboi\ohboi\bin\Debug\net6.0-windows\ohboi.runtimeconfig.json
+C:\Users\bentl\source\repos\ohboi\ohboi\bin\Debug\net6.0-windows\ohboi.dll
+C:\Users\bentl\source\repos\ohboi\ohboi\bin\Debug\net6.0-windows\ohboi.pdb
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.csproj.AssemblyReference.cache
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.Form1.resources
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.csproj.GenerateResource.cache
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.AssemblyInfoInputs.cache
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.AssemblyInfo.cs
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.csproj.CoreCompileInputs.cache
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.dll
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\refint\ohboi.dll
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.pdb
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ohboi.genruntimeconfig.cache
+C:\Users\bentl\source\repos\ohboi\ohboi\obj\Debug\net6.0-windows\ref\ohboi.dll
